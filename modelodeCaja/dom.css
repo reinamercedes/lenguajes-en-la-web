@@ -2,6 +2,7 @@
 	margin: 10px 0.5px;
 	background-color: pink;
 	padding: 1%;
+	border: 10px solid purple;
 }
 .inside {
 	border: dashed green 1px;

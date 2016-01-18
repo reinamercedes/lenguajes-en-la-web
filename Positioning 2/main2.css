@@ -1,0 +1,21 @@
+/* Inserta tu CSS aqui */ 
+.out {
+	height: 600px;
+	width: 600px;
+	background-color: #0048FB;
+	position: static;
+}
+.inside2 {
+	height:300px;
+	width: 300px;
+	background-color: #387804;
+	position: relative;
+	top: 150px;
+	left: 150px;
+}
+.inside1 {
+	height: 150px;
+	width: 150px;
+	background-color: black;
+	position: absolute;
+}

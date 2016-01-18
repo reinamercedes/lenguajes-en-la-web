@@ -1,0 +1,29 @@
+.UNO {
+	
+	background-color: yellow;
+	margin-right: 5px;
+	padding-bottom: 4%;	
+}
+.DOS {
+	
+	background-color: red;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-bottom: 4%;	
+}
+.TRES {
+	
+	background-color: yellow;
+	margin-left: 5px;
+	padding-bottom: 4%;
+	
+}
+div {
+	display: inline-block;
+	height: 70px;
+	width: 180px;
+}
+p {
+	text-align: left;
+	padding: 2%;
+}
