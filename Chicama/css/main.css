@@ -1,0 +1,76 @@
+header {
+	width: 100%; 
+	height: 730px;
+	background-image: url("../img/grupal.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav {
+	position: relative;
+	left: 650px;
+	top: 55px;
+}
+nav ul a {
+	text-decoration: none;
+	color: black;
+	font-family: Arial;
+	margin-right: 15px;
+}
+.logoLaboratoria {
+	position: relative;
+	left: 260px;
+	top: 60px;
+
+}
+.logoLaboratoria img {
+    width: 350px;
+    height: 55px;
+}
+.sumate {
+	width: 130px;
+	height: 50px;
+	background-color: #FCB739;
+	text-align: center;
+	position: relative;
+	left: -15px;
+	padding-top: 13px;
+}
+.sumate p {
+	color: black;
+	font-family: Arial;
+}
+.sumatehref {
+	text-decoration: none;
+}
+.img-grupal {
+	width: 300px;
+	height: 200px;
+	margin-top: 70px;
+}
+.img-grupal img {
+	width: 300px;
+	height: 200px;
+}
+.piedefoto {
+	margin-bottom: 70px;
+	margin-top: 5px;
+	border-bottom: solid black 1px;
+	font-family: Arial;
+	color: black;
+	font-size: 19px;
+	font-weight: bolder;
+}
+footer {
+	background-color: #323230;
+}
+.LabInfo {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.LabInfo h5 {
+	color: white;
+	font-family: Arial;
+	font-size: 15px;
+}
+
+
